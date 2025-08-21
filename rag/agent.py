@@ -92,3 +92,4 @@ agent = Agent(
     output_key=AGENT_OUTPUT_KEY
 )
 
+root_agent = agent
